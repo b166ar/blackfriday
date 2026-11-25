@@ -1,0 +1,19 @@
+{
+  "name": "AudioBo",
+  "url": "https://apps.apple.com/us/app/audiobo-m4b-audiobook-maker/id6754019673?ct=bf26_indiegoodies&mt=12",
+  "description": "Turns audio files into M4B audiobooks with proper chapters and clean metadata, ready for Apple Books, Music, CarPlay and classic iPods",
+  "category": "media",
+  "platforms": [
+    "mac"
+  ],
+  "deal": "50% off the app, no code",
+  "pricing": "one-time",
+  "price": {
+    "regular": 9.99,
+    "sale": 4.99,
+    "currency": "USD"
+  },
+  "discount": 50,
+  "startDate": "2026-11-26",
+  "endDate": "2026-12-01"
+}

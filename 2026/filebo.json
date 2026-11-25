@@ -1,0 +1,19 @@
+{
+  "name": "FileBo",
+  "url": "https://apps.apple.com/us/app/filebo-recent-files-items/id6785596150?ct=bf26_indiegoodies&mt=12",
+  "description": "A pop-up window with the files and folders you recently used, changed, saved or downloaded on your Mac. Open them or drag them into any app",
+  "category": "utilities",
+  "platforms": [
+    "mac"
+  ],
+  "deal": "50% off the one-time unlock, no code",
+  "pricing": "one-time",
+  "price": {
+    "regular": 9.99,
+    "sale": 4.99,
+    "currency": "USD"
+  },
+  "discount": 50,
+  "startDate": "2026-11-26",
+  "endDate": "2026-12-01"
+}
